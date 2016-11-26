@@ -7,7 +7,7 @@
 
 #define ANSI_DEFAULT	"\x1B[0m"
 
-#define ANSI_BG_BOLD	"\x1B[1m"
+#define ANSI_BOLD	"\x1B[1m"
 
 
 #endif
